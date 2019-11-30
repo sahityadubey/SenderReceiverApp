@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Receiver App</string>
+    <string name="label_name">Receiver Application</string>
+    <string name="action_settings">Settings</string>
+    <string name="something_went_wrong">Error: Something went wrong!</string>
+    <string name="file_name">EmpFile.Json</string>
+</resources>

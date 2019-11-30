@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Sender App</string>
+    <string name="label_name">Sender Application</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="something_went_wrong">Error: Something went wrong!</string>
+    <string name="file_name">EmpFile.Json</string>
+    <string name="time_out_error">"Time Out Error!"</string>
+</resources>
